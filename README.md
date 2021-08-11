@@ -3,6 +3,7 @@
 ## hw1:
 jieba.set_dictionary('./dict.txt.big')
 jieba stop_word.txt
+
 file URL:https://github.com/fxsjy/jieba/tree/master/extra_dict
 
 ## hw2:
